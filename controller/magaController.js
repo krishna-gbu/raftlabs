@@ -1,5 +1,4 @@
 const Maga = require('../models/magazineModel')
-const AppError = require('../utils/appError')
 const catchAsync = require('../utils/catchAsync')
 
 
